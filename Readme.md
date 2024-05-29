@@ -1,6 +1,6 @@
 ![Header](./docs/header.jpg)
 
-# Time Series Analysis for Rice Price in Central Java 2017-2023
+# TSA for Rice Price in Central Java 2017-2023
 
 ## About
 
